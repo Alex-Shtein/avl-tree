@@ -110,7 +110,11 @@ auto reverseInOrder = tree.RoundRrootL();
 
 Метод `Output()` выводит структуру дерева:
 ```
-    15
-10
-    5
+     11
+  9
+     7
+5
+     4
+  3
+     2
 ```
